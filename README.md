@@ -1,6 +1,8 @@
 # 631-augmented-reality
 ECEN 631 project for augmented reality
 
+[![Video](https://img.youtube.com/vi/_UjeFaYZJDw/maxresdefault.jpg)](https://www.youtube.com/watch?v=_UjeFaYZJDw)
+
 ## Intsallation Guide
 1. Make sure your OpenCV was installed using `pip install opencv-contrib-python`
 2. Install OpenGL using the following youtube tutuorial [Install PyOpenGL + GLUT in Windows](https://www.youtube.com/watch?v=a4NVQC_2S2U&t=314s&ab_channel=NaseemShah)
